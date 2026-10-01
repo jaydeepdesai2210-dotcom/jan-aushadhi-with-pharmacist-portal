@@ -1,0 +1,8 @@
+{
+  "name": "Jan Aushadhi Kendra Adajan - Medicine Catalogue",
+  "description": "Official generic medicine catalogue and pharmacy database for Jan Aushadhi Kendra Adajan, Surat. Search medicines, verify availability, and order on WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
